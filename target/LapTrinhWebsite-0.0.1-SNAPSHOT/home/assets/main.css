@@ -1,0 +1,58 @@
+table td {
+  padding: 3px;
+}
+
+table tr {
+  border-bottom: 1px solid #e9ecef;
+}
+
+
+.primary2 {
+  background-color: #3B5998;
+  color: white;
+}
+
+.primary {
+  background-color: #3883c4;
+  color: #ffffff;
+}
+
+.warning {
+  background-color: #ea9a17;
+  color: #ffffff;
+}
+
+.danger {
+  background-color: #dd4b39;
+  color: white;
+}
+
+.success {
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+
+.color-main {
+  background-color: #16bad3;
+}
+
+.secondary-title {
+  border: none;
+  color: #666;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: center;
+  text-transform: none;
+}
+
+
+.toast {
+  opacity: 1 !important;
+}
+
+.table td,
+th {
+  white-space: nowrap;
+}
